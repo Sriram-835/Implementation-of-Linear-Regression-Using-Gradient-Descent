@@ -1,3 +1,8 @@
+
+Program to implement the linear regression using gradient descent.
+Developed by:  SRIRAM K
+RegisterNumber: 212222080052
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
